@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tay811/React_shop_API/static/css/main.55260d15.css",
+    "main.js": "/Tay811/React_shop_API/static/js/main.f8aa57ef.js",
+    "index.html": "/Tay811/React_shop_API/index.html",
+    "main.55260d15.css.map": "/Tay811/React_shop_API/static/css/main.55260d15.css.map",
+    "main.f8aa57ef.js.map": "/Tay811/React_shop_API/static/js/main.f8aa57ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55260d15.css",
+    "static/js/main.f8aa57ef.js"
+  ]
+}
